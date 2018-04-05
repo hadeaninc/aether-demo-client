@@ -1,0 +1,10 @@
+[gd_resource type="NativeScript" load_steps=2 format=2]
+
+[ext_resource path="res://lib/repclient/aether_repclient.gdnlib" type="GDNativeLibrary" id=1]
+
+[resource]
+
+resource_name = "AetherRepClient"
+class_name = "AetherRepClient"
+library = ExtResource( 1 )
+_sections_unfolded = [ "Resource" ]
